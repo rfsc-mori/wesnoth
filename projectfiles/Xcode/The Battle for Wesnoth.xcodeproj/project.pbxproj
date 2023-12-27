@@ -3158,7 +3158,6 @@
 			isa = PBXGroup;
 			children = (
 				080E96DDFE201D6D7F000001 /* Mac-specific */,
-				B597C49D0FACD3F900CE81F5 /* tests */,
 				460D897624DC77C8000B1ABC /* server */,
 				29B97315FDCFA39411CA2CEA /* src */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -3420,6 +3419,7 @@
 				ECB57C3F1A56E6DC001973A5 /* teambuilder.cpp */,
 				91B621991B7672F100B00E0F /* teambuilder.hpp */,
 				91EF6C091C9F1D7100E2A733 /* terrain */,
+				B597C49D0FACD3F900CE81F5 /* tests */,
 				B559998D0EC62181008DD061 /* theme.cpp */,
 				B559998C0EC62181008DD061 /* theme.hpp */,
 				B55999870EC62181008DD061 /* time_of_day.cpp */,
